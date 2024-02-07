@@ -1,28 +1,32 @@
 
 AR Furno
-Welcome to AR Furno, an augmented reality experience for exploring furniture in your space!
+Welcome to AR Furno, your gateway to an immersive augmented reality experience for exploring furniture in your living space!
 
-## LINK- https://im-ar.itch.io/arfurniture?secret=k43g7hLWOW2lRchfEgENs7kis
-
+LINK to AR Furno on itch.io
 Project Overview
-This project is developed using Unity 2022, making use of Google AR Core and the XR plugin. It allows users to visualize and interact with virtual furniture items in their real-world environment through augmented reality.
+AR Furno is developed using Unity 2022, harnessing the power of Google AR Core and the XR plugin. This app empowers users to visualize and interact with virtual furniture items seamlessly integrated into their real-world surroundings through augmented reality.
 
 Features
-Furniture Items: Currently, the AR Furno app features three furniture items - sofa, table, and cabinet. These items have been carefully selected to showcase the application's capabilities.
+Furniture Items: Explore three carefully selected furniture pieces - a cozy sofa, a functional table, and a stylish cabinet. These items have been curated to demonstrate the full capabilities of the application.
 
-Horizontal Scroll Bar: To enhance user experience, a user-friendly horizontal scroll bar is implemented at the bottom of the screen. Users can effortlessly scroll through available furniture items, providing a seamless browsing experience.
+Horizontal Scroll Bar: Elevating user experience, AR Furno incorporates a user-friendly horizontal scroll bar located at the bottom of the screen. This feature allows users to effortlessly scroll through available furniture items, offering a smooth and intuitive browsing experience.
 
 Getting Started
-Unity Version: Ensure you have Unity 2022 installed via Unity Hub.
+Unity Version: Make sure you have Unity 2022 installed using Unity Hub.
 
-AR Core: Make sure to have Google AR Core installed in your Unity project to enable AR functionalities.
+AR Core: Ensure Google AR Core is installed in your Unity project to unlock AR functionalities.
 
-XR Plugin: The project uses the XR plugin for Unity. Ensure it is correctly integrated to support augmented reality features.
+XR Plugin: The project utilizes the XR plugin for Unity. Ensure it is correctly integrated to fully support augmented reality features.
 
-Run the Project: Open the project in Unity and run it in the Unity Editor or on your AR-supported device.
+Run the Project: Open the project in Unity and run it either in the Unity Editor or on your AR-supported device.
 
 Hosting
-The AR Furno project has been deployed via WebGL and is available on itch.io. You can access the hosted project here.
+AR Furno has been deployed via WebGL and is now accessible on itch.io. Experience the AR magic here.
+
+Contribution
+Feel inspired to contribute to the project? Open issues or create pull requests - your involvement is welcomed! Refer to the contribution guidelines for more details.
+
+Embark on a journey of augmented reality furniture exploration with AR Furno! 🪑✨
 
 Contribution
 Feel free to contribute to the project by opening issues or creating pull requests. Follow the contribution guidelines for more details.
